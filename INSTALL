@@ -1,0 +1,9 @@
+Building WisdomCoin
+
+See doc/readme-qt.rst for instructions on building WisdomCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of WisdomCoin.
+
+See doc/build-*.txt for instructions on building wisdomcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of WisdomCoin.
